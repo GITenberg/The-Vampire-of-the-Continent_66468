@@ -1,0 +1,31 @@
+_repo: The-Vampire-of-the-Continent_66468
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Chatterton-Hill, George
+    gutenberg_agent_id: '53822'
+    url: http://www.gutenberg.org/2009/agents/53822
+creator:
+  author:
+    agent_name: Reventlow, Ernst zu
+    gutenberg_agent_id: '53821'
+    url: http://www.gutenberg.org/2009/agents/53821
+description: ''
+gutenberg_issued: '2021-10-04'
+identifiers:
+  gutenberg: '66468'
+language: en
+pgterms:marc904: https://archive.org/details/vampireofcontine00reve
+pgterms:marc905: 20190109162559reventlow
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Jackson Press,1916.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Vampire of the Continent
+url: http://www.gutenberg.org/ebooks/66468
