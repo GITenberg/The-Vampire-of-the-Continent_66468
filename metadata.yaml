@@ -5,12 +5,17 @@ contributor:
     agent_name: Chatterton-Hill, George
     gutenberg_agent_id: '53822'
     url: http://www.gutenberg.org/2009/agents/53822
+covers:
+- cover_type: archival
+  image_path: 66468-h/images/cover.jpg
 creator:
   author:
     agent_name: Reventlow, Ernst zu
     gutenberg_agent_id: '53821'
     url: http://www.gutenberg.org/2009/agents/53821
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66468#The-Vampire-of-the-Continent
 gutenberg_issued: '2021-10-04'
 identifiers:
   gutenberg: '66468'
